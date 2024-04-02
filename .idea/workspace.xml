@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80656984-46ee-40c7-bda5-75ea3ed77051" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/TodoApp/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/project/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/composer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/project/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/project/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/project/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/project/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/composer" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/TodoApp/vendor/nikic/php-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cZdFYLUh14tvSgUMXXANwQS3YZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Piou/Desktop/testApi/front",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Piou\Desktop\testApi\docker\php\vhosts\site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Piou\Desktop\testApi\docker\php\vhosts" />
+      <recent name="C:\Users\Piou\Desktop\testApi\docker\php\vhosts\api" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80656984-46ee-40c7-bda5-75ea3ed77051" name="Changes" comment="" />
+      <created>1708322931694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708322931694</updated>
+      <workItem from="1708322932749" duration="7543000" />
+      <workItem from="1708409339331" duration="679000" />
+      <workItem from="1708621145836" duration="169000" />
+      <workItem from="1710324344094" duration="1965000" />
+      <workItem from="1710405928208" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
