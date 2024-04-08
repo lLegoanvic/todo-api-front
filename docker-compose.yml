@@ -46,7 +46,7 @@ services:
       - "8742:80"
     volumes:
       - ./docker/php/vhosts:/etc/apache2/sites-enabled
-      - ./front:/var/www
+      - ./TodoFront:/var/www
     restart: always
     networks:
       - tutorial

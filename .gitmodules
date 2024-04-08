@@ -1,0 +1,4 @@
+[submodule "TodoFront"]
+	url = https://github.com/lLegoanvic/TodoApp
+[submodule "TodoApp"]
+	url = https://github.com/lLegoanvic/TodoApp
